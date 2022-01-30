@@ -40,3 +40,12 @@ for (i= 0; i < p.lenght; i++){
 
 
 //Question 6
+document.querySelector (".results")
+var resultsContainer = document.querySelector (".results")
+function changeP (){
+    resultsContainer.innerHTML = "<p>New paragraph</p>";
+    resultsContainer.style.backgroundColor = "yellow"
+};
+
+
+//Question 7
