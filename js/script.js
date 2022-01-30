@@ -49,7 +49,22 @@ function changeP (){
 
 
 //Question 7
-
+function parameterloop(list, fill, fill2){
+    console.log ("list")
+};
+//Not sure what i was suppose to do here
 
 
 //Question 8
+function createCats(cats){
+    console.log("cats")
+}
+
+if(typeof cats === `undefined`) {
+    console.log("undefined")
+}
+else {
+    console.log("else")
+}
+
+//Not sure what to do
